@@ -12,10 +12,10 @@
 
         &.current {
             font-weight: bold;
-            background-color: var(--card-background-selected);
-            color: var(--card-text-color-main);
+            background-color: var(--paging-selected-background);
+            color: var(--paging-selected-color);
         }
 
-        color: var(--card-text-color-secondary);
+        color: var(--paging-color);
     }
 }
